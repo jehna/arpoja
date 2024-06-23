@@ -1,0 +1,19 @@
+{
+  "name": "arpoja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "tsx": "^4.15.7"
+  },
+  "dependencies": {
+    "typescript": "^5.5.2"
+  }
+}
